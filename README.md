@@ -1,1 +1,1 @@
-Create parser whicg can parse expressions like x * (x - 2)* x + 1
+Create parser which can parse expressions like x * (x - 2)* x + 1
